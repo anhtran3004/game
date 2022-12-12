@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tank1
+  - tank2
+  - heart
+  - changeBullet
+  - scaleTank
+  - enemy
+  - bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - players
+  - Water
+  - UI
+  - boxes
+  - walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: track
+    uniqueID: 3184319501
+    locked: 0
+  - name: players
+    uniqueID: 49028861
+    locked: 0
+  - name: boxes
+    uniqueID: 2709377905
+    locked: 0
+  - name: walls
+    uniqueID: 341699433
+    locked: 0
+  - name: explode
+    uniqueID: 4115115385
+    locked: 0
+  - name: UI
+    uniqueID: 1197260917
+    locked: 0
